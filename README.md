@@ -15,7 +15,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 <br />
 </h4>
 
-<i><h2 align="center">🎃 "Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
+<i><h2 align="center">"Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
 
 <!-- ## 👨‍💻 Currently working in [MetaKongz](https://www.metakongz.art) as Team Member and [Discord](https://discord.gg/metakongzgc) Server.
 
@@ -36,8 +36,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - DEX, Defi, DAO, Dapps
   
 
-<h1 align="center">HappyCoder Here!</h1>
-<h3 align="center">Web/Mobile App & Blockchain developer</h3>
+<h3 align="center">Web/Mobile App & Blockchain development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happysmilecode&label=Profile%20views&color=0e75b6&style=flat" alt="happysmilecode" /> </p>
 
