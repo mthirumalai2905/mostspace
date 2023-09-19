@@ -4,7 +4,8 @@
  
 - Follow Me via Git.
 - Contact to me: <span style="font-size:30pt">mostspace1027@gmail.com</span>
-- You can find me here: <span style="font-size:30px;" size="30px"><a href="https://join.skype.com/invite/FTt0mmHoS1V2">Skype</a></span> <span>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.com/invite/HvTK3yws">Discord</a></span>
+- You can find me here: <a href = "mailto:mostspace1027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href = "https://join.skype.com/invite/FTt0mmHoS1V2"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" target="_blank"></a><span style="font-size:30px;" size="30px"><a href = "https://discord.com/invite/HvTK3yws"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=red" target="_blank"></a>
+
   
 <h2 align="center">
   <i color="red">8 years of experience with <b>Web/Mobile App development</i>
