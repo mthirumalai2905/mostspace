@@ -8,7 +8,7 @@
 
   
 <h2 align="center">
-  <i color="red">8 years of experience with <b>Web/Mobile App development</i>
+  <i color="red">8 years of experience with <b>Web/Mobile App development | UI/UX Design</b></i>
 <br />
 </h2>
 <h4>   
