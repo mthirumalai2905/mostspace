@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Senior Full-stack developer</h3>
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Passionate developer & Pianist
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
 <p align="center">
   <img src="https://github.com/IceDev528/IceDev528/blob/main/Logo.gif" />
 </p>
@@ -35,6 +41,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href = "mailto:danielpitt1027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;<a href = "https://join.skype.com/invite/FTt0mmHoS1V2"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" target="_blank"></a><span style="font-size:30px;" size="30px">&nbsp;<a href = "https://discord.com/invite/HvTK3yws"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=red" target="_blank"></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
