@@ -14,34 +14,32 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Golang and rust**
+## Core Skills
 
-- 👨‍💻 All of my projects are available at [https://mostspace.github.io/daniel-portfolio/)
-
-- 💬 Ask me about **react, vue, laravel**
-
-- 📫 How to reach me **danielpitt1027@gmail.com**
-
-- 📄 Know about my experiences [https://mostspace.github.io/daniel-portfolio/)
-
-- ⚡ Fun fact **Football, swimming, running**
+- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Angular.js, Nuxt.js, Quasar
+- 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
+- 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
+- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django
+- 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
+- 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href = "mailto:danielpitt1027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;<a href = "https://join.skype.com/invite/FTt0mmHoS1V2"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" target="_blank"></a><span style="font-size:30px;" size="30px">&nbsp;<a href = "https://discord.com/invite/HvTK3yws"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=red" target="_blank"></a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
-<h3 align="left">Backend</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nestjs,nodejs,php,py,symfony,wordpress,django,fastapi" />
-  </a>
-</p>
+## Languages & Tools
+
 <h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue" />
+  </a>
+</p>
+<h3 align="left">Backend</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nestjs,nodejs,php,py,symfony,wordpress,django,fastapi" />
   </a>
 </p>
 <h3 align="left">Mobile</h3>
@@ -59,9 +57,11 @@
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,figma,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,figma,photoshop,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
   </a>
 </p>
+
+## Github Stats
 
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostspace&show_icons=true&locale=en&layout=compact" alt="mostspace" /></p>
