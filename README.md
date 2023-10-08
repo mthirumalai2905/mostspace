@@ -26,7 +26,7 @@
 ## Connect with me
 
 <p align="left">
-<a href = "mailto:danielpitt1027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;<a href = "https://join.skype.com/invite/FTt0mmHoS1V2"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" target="_blank"></a><span style="font-size:30px;" size="30px">&nbsp;<a href = "https://discord.com/invite/HvTK3yws"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=red" target="_blank"></a>
+<a href = "mailto:mostspace1027@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;<a href = "https://join.skype.com/invite/FTt0mmHoS1V2"><img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" target="_blank"></a><span style="font-size:30px;" size="30px">&nbsp;<a href = "https://discord.com/invite/HvTK3yws"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=red" target="_blank"></a>
 </p>
 
 ## Languages & Tools
