@@ -16,12 +16,15 @@
 
 ## Core Skills
 
-- <b>Frontend</b> : React.js, Vue.js, Angular.js, Next.js, Nuxt.js, Quasar
+- <b>Web Frontend</b> : React.js, Vue.js, Angular.js, Next.js, Nuxt.js
 - <b>Backend</b> : PHP / Laravel, Node.js / Express, Python / Django
+- <b>Mobile App Native</b> : Android:Java, Kotlin, Swift
+- <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
 - <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
 - <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
-- <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
+- <b>Languages</b> : JavaScript, TypeScript, C#, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity
+- <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
 
 ## Connect with me
 
@@ -62,7 +65,8 @@
   </a>
 </p>
 
-## 📈 Github Stats
+## Github Stats
+
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=slytherin-dev&sshow_icons=true&theme=radical&count_private=true">
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slytherin-dev&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
 
