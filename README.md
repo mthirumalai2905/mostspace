@@ -3,14 +3,18 @@
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slytherin-dev&theme=dracula" alt="slytherin-dev" /></a></p>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-モバイルおよびWeb開発の経験が6年以上あり、NEOSやSymfonyなどのCMSプラットフォームを使ったプロフェッショナルです。
-スキルセットには、JavaScript、TypeScript、Java、Python、Dart、C＃、PHP、HTML、CSS、SCSS、SQLの使いこなしが含まれています。難解なプロジェクトに対する解決能力と分析力に優れており、多くの挑戦的なプロジェクトを成功裏に進め、締め切りと予算を見事に遵守してきました。
-Agileチームのリーダーとして、Junior開発者のメンターとして活動しながら、Jenkinsを利用したDevOps Pipelineの構築により、プロジェクト管理プロセスを最適化した経験があります。
+## Core Skills
 
-### 🌱現在学習している言語
-ブロックチェーン技術に興味を感じ、Rust、nostr言語を学習しています。
+- <b>Web Frontend</b> : React.js, Vue.js, Angular.js, Next.js, Nuxt.js
+- <b>Backend</b> : PHP / Laravel, Node.js / Express, Python / Django
+- <b>Mobile App Native</b> : Android:Java, Kotlin, Swift
+- <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
+- <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
+- <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
+- <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
+- <b>Languages</b> : JavaScript, TypeScript, C#, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
+- <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
 
-💻 言語、フレームワーク、ツール
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -37,7 +41,7 @@ Agileチームのリーダーとして、Junior開発者のメンターとして
 - <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
 - <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
-- <b>Languages</b> : JavaScript, TypeScript, C#, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity
+- <b>Languages</b> : JavaScript, TypeScript, C#, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
 - <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
 
 ## Connect with me
