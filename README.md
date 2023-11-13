@@ -1,11 +1,10 @@
 ## Welcome to my Github!
 
-<p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="rain" /> </p>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=slytherin-dev&theme=dracula" alt="slytherin-dev" />
-  </a>
-</p>
+<p>Hello! I'm Daniel, an enthusiastic full-stack software developer.
+
+Software design and development have always been my biggest passion, because of its ability to transform idea into reality with the essence of efficiency! I particularly find it purposeful therefore enjoyable when learning and building with different brains as a team towards a shared vision. With the belief that only magic can surpass technology, I am eager to use my technological skills and creativity to provide service/product to fill in the gaps in this society and make this world a better place.
+
+I'd love to talk about anything from work to life!</p>
 
 
 ## Core Skills
