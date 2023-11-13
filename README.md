@@ -58,9 +58,3 @@ I'd love to talk about anything from work to life!</p>
   </a>
 </p>
 
-## Github Stats
-
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=slytherin-dev&sshow_icons=true&theme=radical&count_private=true">
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slytherin-dev&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
-
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
