@@ -28,6 +28,7 @@ I'd love to talk about anything from work to life!</p>
   <a href = "https://join.skype.com/invite/FTt0mmHoS1V2">
     <img src="https://img.shields.io/badge/-Skype-%23333?style=for-the-badge&logo=skype&logoColor=blue" target="_blank">
   </a>
+  <span style="font-size:30px;" size="30px">&nbsp;
   <a href = "https://join.slack.com/t/danielsworksp-rhq1949/shared_invite/zt-25ythaztd-qka1KoDvdxBwhPJAOhxrHQ">
     <img src="https://img.shields.io/badge/-Slack-%23333?style=for-the-badge&logo=slack&logoColor=red" target="_blank">
   </a>
@@ -36,7 +37,6 @@ I'd love to talk about anything from work to life!</p>
     <img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=red" target="_blank">
   </a>
 </p>
-https://join.slack.com/t/danielsworksp-rhq1949/shared_invite/zt-25ythaztd-qka1KoDvdxBwhPJAOhxrHQ
 
 ## Languages & Tools
 
