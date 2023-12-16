@@ -7,7 +7,7 @@ Software design and development have always been my biggest passion, because of 
 I'd love to talk about anything from work to life!</p>
 
 
-## Core Skills
+## Skills
 
 - <b>Web Frontend</b> : React.js, Vue.js, Angular.js, Next.js, Nuxt.js
 - <b>Backend</b> : PHP / Laravel, Node.js / Express, Python / Django
