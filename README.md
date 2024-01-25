@@ -7,14 +7,14 @@ Software design and development have always been my biggest passion, because of 
 
 ## Skills
 
-- <b>Web Frontend</b> : React.js, Vue.js, Angular.js, Next.js, Nuxt.js
+- <b>Web Frontend</b> : React.js, Vue.js, Angular.js, Next.js, Svelte
 - <b>Backend</b> : PHP / Laravel, Node.js / Express, Python / Django
 - <b>Mobile App Native</b> : Android:Java, Kotlin, Swift
 - <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
 - <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
 - <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
-- <b>Languages</b> : JavaScript, TypeScript, C#, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
+- <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP, Python, C#, Solidity
 - <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
 
 ## Connect with me
