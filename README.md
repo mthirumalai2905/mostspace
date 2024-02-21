@@ -1,22 +1,18 @@
 ## Welcome to my Github!
 
-<p>Hello! I'm Daniel, an passionate software engineer.
+<p>Hello! I'm Thirumalai, a passionate software engineer.
 
 Software design and development have always been my biggest passion, because of its ability to transform idea into reality with the essence of efficiency! I particularly find it purposeful therefore enjoyable when learning and building with different brains as a team towards a shared vision. I am eager to use my technological skills and creativity to provide service/product to fill in the gaps in this society and make this world a better place.</p>
 
 
 ## Skills
 
-- <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP, Python, C#, Java, Dart, GraphQL, Solidity
-- <b>Web Frontend</b> : React.js, Vue.js, Angular.js, Next.js, Svelte
-- <b>Backend</b> : PHP / Laravel, Node.js / Express, Python / Django
-- <b>Mobile App Native</b> : Android:Java, Kotlin, Swift
-- <b>Mobile App Cross-Platform, Hybrid</b> : React Native, Flutter
-- <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- <b>Libraries</b> : RefluxJS, React, React Redux, Vue, jQuery UI, Facebook API, Bootstrap, jQuery, TailwindCSS, Material UI, AntD, Backbone.js, Vuex, HTML5 Canvas
-- <b>BlockChain</b> : Web3.js, Ether.js, Wagmi, Hardhat, Truffle, Ethereum, Solana, DeFi, Dex, NFT
-- <b>Tools</b> : Git, Webpack, Atom, Geany, Sentry
-- <b>UI/UX Design</b> : Figma, Adobe XD, Photoshop
+- <b>Languages</b> : HTML, CSS, JavaScript, TypeScript, Java, Python, PHP, SQL
+- <b>Web Frontend</b> : React.js, Next.js
+- <b>Backend</b> : Node.js / Express.js
+- <b>Database</b> : MySQL, MongoDB, FireBase
+- <b>Deveops</b> : Docker, Kubernetes, AWS
+- <b>UI/UX Design</b> : Figma, 
 
 ## Connect with me
 
